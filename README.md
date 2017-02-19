@@ -2,4 +2,5 @@
 creating a new repository
 Hi fellws,
 
-Practising git for the first time, 
+Practising git for the first time,
+Mahesh just enterd room
